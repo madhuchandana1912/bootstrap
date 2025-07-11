@@ -1,0 +1,16 @@
+body {
+  scroll-behavior: smooth;
+}
+
+h1, h2, h4, h5 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+  font-size: 0.9rem;
+}
+
+.card:hover {
+  box-shadow: 0 0 15px rgba(0,0,0,0.15);
+  transition: box-shadow 0.3s ease-in-out;
+}
